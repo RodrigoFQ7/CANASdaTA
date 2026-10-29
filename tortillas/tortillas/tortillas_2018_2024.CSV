@@ -1,0 +1,793 @@
+Anio,Mes,Especificacion,Precio promedio,Cantidad,Unidad
+2024,7,A GRANEL                                                    ,26,1,KG    
+2024,7,A GRANEL                                                    ,26,1,KG    
+2024,7,A GRANEL                                                    ,26,1,KG    
+2024,7,A GRANEL                                                    ,25,1,KG    
+2024,7,A GRANEL                                                    ,25,1,KG    
+2024,7,A GRANEL                                                    ,26,1,KG    
+2024,7,A GRANEL                                                    ,25,1,KG    
+2024,7,"DOÑA GELITA, BLANCA, PAQ DE 1 KG                            ",27,1,KG    
+2024,7,A GRANEL                                                    ,25,1,KG    
+2024,7,"LA LUZ, PAQ DE 1 KG                                         ",30.9,1,KG    
+2024,7,"LOPEZ, PAQ DE 1 KG                                          ",27,1,KG    
+2024,6,A GRANEL                                                    ,26,1,KG    
+2024,6,A GRANEL                                                    ,26,1,KG    
+2024,6,A GRANEL                                                    ,26,1,KG    
+2024,6,A GRANEL                                                    ,25,1,KG    
+2024,6,A GRANEL                                                    ,25,1,KG    
+2024,6,A GRANEL                                                    ,26,1,KG    
+2024,6,A GRANEL                                                    ,25,1,KG    
+2024,6,"DOÑA GELITA, BLANCA, PAQ DE 1 KG                            ",27,1,KG    
+2024,6,A GRANEL                                                    ,25,1,KG    
+2024,6,"LA LUZ, PAQ DE 1 KG                                         ",30.9,1,KG    
+2024,6,"LOPEZ, PAQ DE 1 KG                                          ",27,1,KG    
+2024,5,A GRANEL                                                    ,26,1,KG    
+2024,5,A GRANEL                                                    ,26,1,KG    
+2024,5,A GRANEL                                                    ,26,1,KG    
+2024,5,A GRANEL                                                    ,25,1,KG    
+2024,5,A GRANEL                                                    ,24.5,1,KG    
+2024,5,A GRANEL                                                    ,26,1,KG    
+2024,5,A GRANEL                                                    ,25,1,KG    
+2024,5,"DOÑA GELITA, BLANCA, PAQ DE 1 KG                            ",27,1,KG    
+2024,5,A GRANEL                                                    ,25,1,KG    
+2024,5,"LA LUZ, PAQ DE 1 KG                                         ",30.9,1,KG    
+2024,5,"LOPEZ, PAQ DE 1 KG                                          ",27,1,KG    
+2024,4,A GRANEL                                                    ,26,1,KG    
+2024,4,A GRANEL                                                    ,26,1,KG    
+2024,4,A GRANEL                                                    ,26,1,KG    
+2024,4,A GRANEL                                                    ,25,1,KG    
+2024,4,A GRANEL                                                    ,24,1,KG    
+2024,4,A GRANEL                                                    ,26,1,KG    
+2024,4,A GRANEL                                                    ,25,1,KG    
+2024,4,"DOÑA GELITA, BLANCA, PAQ DE 1 KG                            ",27,1,KG    
+2024,4,A GRANEL                                                    ,25,1,KG    
+2024,4,"LA LUZ, PAQ DE 1 KG                                         ",30.9,1,KG    
+2024,4,"LOPEZ, PAQ DE 1 KG                                          ",27,1,KG    
+2024,3,A GRANEL                                                    ,26,1,KG    
+2024,3,A GRANEL                                                    ,26,1,KG    
+2024,3,A GRANEL                                                    ,26,1,KG    
+2024,3,A GRANEL                                                    ,25,1,KG    
+2024,3,A GRANEL                                                    ,24,1,KG    
+2024,3,A GRANEL                                                    ,26,1,KG    
+2024,3,A GRANEL                                                    ,25,1,KG    
+2024,3,"DOÑA GELITA, BLANCA, PAQ DE 1 KG                            ",27,1,KG    
+2024,3,A GRANEL                                                    ,25,1,KG    
+2024,3,"LA LUZ, PAQ DE 1 KG                                         ",30.9,1,KG    
+2024,3,"LOPEZ, PAQ DE 1 KG                                          ",27,1,KG    
+2024,2,A GRANEL                                                    ,26,1,KG    
+2024,2,A GRANEL                                                    ,26,1,KG    
+2024,2,A GRANEL                                                    ,26,1,KG    
+2024,2,A GRANEL                                                    ,25,1,KG    
+2024,2,A GRANEL                                                    ,24,1,KG    
+2024,2,A GRANEL                                                    ,26,1,KG    
+2024,2,A GRANEL                                                    ,22,1,KG    
+2024,2,"DOÑA GELITA, BLANCA, PAQ DE 1 KG                            ",27,1,KG    
+2024,2,A GRANEL                                                    ,25,1,KG    
+2024,2,"LA LUZ, PAQ DE 1 KG                                         ",30.9,1,KG    
+2024,2,"LOPEZ, PAQ DE 1 KG                                          ",27,1,KG    
+2024,1,A GRANEL                                                    ,26,1,KG    
+2024,1,A GRANEL                                                    ,26,1,KG    
+2024,1,A GRANEL                                                    ,26,1,KG    
+2024,1,A GRANEL                                                    ,25,1,KG    
+2024,1,A GRANEL                                                    ,24,1,KG    
+2024,1,A GRANEL                                                    ,25.5,1,KG    
+2024,1,A GRANEL                                                    ,22,1,KG    
+2024,1,"DOÑA GELITA, BLANCA, PAQ DE 1 KG                            ",27,1,KG    
+2024,1,A GRANEL                                                    ,25,1,KG    
+2024,1,"LA LUZ, PAQ DE 1 KG                                         ",30.9,1,KG    
+2024,1,"LOPEZ, PAQ DE 1 KG                                          ",27,1,KG    
+2023,12,A GRANEL                                                    ,26,1,KG    
+2023,12,A GRANEL                                                    ,26,1,KG    
+2023,12,A GRANEL                                                    ,26,1,KG    
+2023,12,A GRANEL                                                    ,25,1,KG    
+2023,12,A GRANEL                                                    ,24,1,KG    
+2023,12,A GRANEL                                                    ,24,1,KG    
+2023,12,A GRANEL                                                    ,22,1,KG    
+2023,12,"DOÑA GELITA, BLANCA, PAQ DE 1 KG                            ",27,1,KG    
+2023,12,A GRANEL                                                    ,25,1,KG    
+2023,12,"LA LUZ, PAQ DE 1 KG                                         ",30.9,1,KG    
+2023,12,"LOPEZ, PAQ DE 1 KG                                          ",27,1,KG    
+2023,11,A GRANEL                                                    ,26,1,KG    
+2023,11,A GRANEL                                                    ,26,1,KG    
+2023,11,A GRANEL                                                    ,26,1,KG    
+2023,11,A GRANEL                                                    ,25,1,KG    
+2023,11,A GRANEL                                                    ,24,1,KG    
+2023,11,A GRANEL                                                    ,24,1,KG    
+2023,11,A GRANEL                                                    ,22,1,KG    
+2023,11,"DOÐA GELITA, BLANCA, PAQ DE 1 KG                            ",27,1,KG    
+2023,11,A GRANEL                                                    ,25,1,KG    
+2023,11,"LA LUZ, PAQ DE 1 KG                                         ",30.9,1,KG    
+2023,11,"LOPEZ, PAQ DE 1 KG                                          ",27,1,KG    
+2023,10,A GRANEL                                                    ,26,1,KG    
+2023,10,A GRANEL                                                    ,26,1,KG    
+2023,10,A GRANEL                                                    ,26,1,KG    
+2023,10,A GRANEL                                                    ,25,1,KG    
+2023,10,A GRANEL                                                    ,24,1,KG    
+2023,10,A GRANEL                                                    ,24,1,KG    
+2023,10,A GRANEL                                                    ,22,1,KG    
+2023,10,"DOÐA GELITA, BLANCA, PAQ DE 1 KG                            ",27,1,KG    
+2023,10,A GRANEL                                                    ,25,1,KG    
+2023,10,"LA LUZ, PAQ DE 1 KG                                         ",30.9,1,KG    
+2023,10,"LOPEZ, PAQ DE 1 KG                                          ",27,1,KG    
+2023,9,A GRANEL                                                    ,26,1,KG    
+2023,9,A GRANEL                                                    ,26,1,KG    
+2023,9,A GRANEL                                                    ,26,1,KG    
+2023,9,A GRANEL                                                    ,25,1,KG    
+2023,9,A GRANEL                                                    ,24,1,KG    
+2023,9,A GRANEL                                                    ,24,1,KG    
+2023,9,A GRANEL                                                    ,22,1,KG    
+2023,9,"DOÐA GELITA, BLANCA, PAQ DE 1 KG                            ",27,1,KG    
+2023,9,A GRANEL                                                    ,25,1,KG    
+2023,9,"LA LUZ, PAQ DE 1 KG                                         ",30.9,1,KG    
+2023,9,"LOPEZ, PAQ DE 1 KG                                          ",27,1,KG    
+2023,8,A GRANEL                                                    ,26,1,KG    
+2023,8,A GRANEL                                                    ,26,1,KG    
+2023,8,A GRANEL                                                    ,26,1,KG    
+2023,8,A GRANEL                                                    ,24.5,1,KG    
+2023,8,A GRANEL                                                    ,24,1,KG    
+2023,8,A GRANEL                                                    ,24,1,KG    
+2023,8,A GRANEL                                                    ,22,1,KG    
+2023,8,"DOÐA GELITA, BLANCA, PAQ DE 1 KG                            ",27,1,KG    
+2023,8,A GRANEL                                                    ,25,1,KG    
+2023,8,"LA LUZ, PAQ DE 1 KG                                         ",30.9,1,KG    
+2023,8,"LOPEZ, PAQ DE 1 KG                                          ",27,1,KG    
+2023,7,A GRANEL                                                    ,26,1,KG    
+2023,7,A GRANEL                                                    ,26,1,KG    
+2023,7,A GRANEL                                                    ,26,1,KG    
+2023,7,A GRANEL                                                    ,23,1,KG    
+2023,7,A GRANEL                                                    ,24,1,KG    
+2023,7,A GRANEL                                                    ,24,1,KG    
+2023,7,A GRANEL                                                    ,22,1,KG    
+2023,7,"DOÐA GELITA, BLANCA, PAQ DE 1 KG                            ",27,1,KG    
+2023,7,A GRANEL                                                    ,25,1,KG    
+2023,7,"LA LUZ, PAQ DE 1 KG                                         ",30.9,1,KG    
+2023,7,"LOPEZ, PAQ DE 1 KG                                          ",27,1,KG    
+2023,6,A GRANEL                                                    ,26,1,KG    
+2023,6,A GRANEL                                                    ,26,1,KG    
+2023,6,A GRANEL                                                    ,26,1,KG    
+2023,6,A GRANEL                                                    ,23,1,KG    
+2023,6,A GRANEL                                                    ,24,1,KG    
+2023,6,A GRANEL                                                    ,24,1,KG    
+2023,6,A GRANEL                                                    ,22,1,KG    
+2023,6,"DOÐA GELITA, BLANCA, PAQ DE 1 KG                            ",27,1,KG    
+2023,6,A GRANEL                                                    ,25,1,KG    
+2023,6,"LA LUZ, PAQ DE 1 KG                                         ",30.9,1,KG    
+2023,6,"LOPEZ, PAQ DE 1 KG                                          ",25.5,1,KG    
+2023,5,A GRANEL                                                    ,26,1,KG    
+2023,5,A GRANEL                                                    ,26,1,KG    
+2023,5,A GRANEL                                                    ,25.5,1,KG    
+2023,5,A GRANEL                                                    ,23,1,KG    
+2023,5,A GRANEL                                                    ,24,1,KG    
+2023,5,A GRANEL                                                    ,24,1,KG    
+2023,5,A GRANEL                                                    ,22,1,KG    
+2023,5,"DOÐA GELITA, BLANCA, PAQ DE 1 KG                            ",27,1,KG    
+2023,5,A GRANEL                                                    ,25,1,KG    
+2023,5,"LA LUZ, PAQ DE 1 KG                                         ",30.9,1,KG    
+2023,5,"LOPEZ, PAQ DE 1 KG                                          ",25,1,KG    
+2023,4,A GRANEL                                                    ,26,1,KG    
+2023,4,A GRANEL                                                    ,26,1,KG    
+2023,4,A GRANEL                                                    ,24,1,KG    
+2023,4,A GRANEL                                                    ,23,1,KG    
+2023,4,A GRANEL                                                    ,24,1,KG    
+2023,4,A GRANEL                                                    ,24,1,KG    
+2023,4,A GRANEL                                                    ,22,1,KG    
+2023,4,"DOÐA GELITA, BLANCA, PAQ DE 1 KG                            ",27,1,KG    
+2023,4,A GRANEL                                                    ,25,1,KG    
+2023,4,"LA LUZ, PAQ DE 1 KG                                         ",30.9,1,KG    
+2023,4,"LOPEZ, PAQ DE 1 KG                                          ",25,1,KG    
+2023,3,A GRANEL                                                    ,24,1,KG    
+2023,3,A GRANEL                                                    ,25,1,KG    
+2023,3,A GRANEL                                                    ,24,1,KG    
+2023,3,A GRANEL                                                    ,23,1,KG    
+2023,3,A GRANEL                                                    ,24,1,KG    
+2023,3,A GRANEL                                                    ,23,1,KG    
+2023,3,A GRANEL                                                    ,22,1,KG    
+2023,3,"DOÐA GELITA, BLANCA, PAQ DE 1 KG                            ",25.5,1,KG    
+2023,3,A GRANEL                                                    ,25,1,KG    
+2023,3,"LA LUZ, PAQ DE 1 KG                                         ",30.05,1,KG    
+2023,3,"LOPEZ, PAQ DE 1 KG                                          ",25,1,KG    
+2023,2,A GRANEL                                                    ,24,1,KG    
+2023,2,A GRANEL                                                    ,24,1,KG    
+2023,2,A GRANEL                                                    ,24,1,KG    
+2023,2,A GRANEL                                                    ,23,1,KG    
+2023,2,A GRANEL                                                    ,24,1,KG    
+2023,2,A GRANEL                                                    ,22,1,KG    
+2023,2,A GRANEL                                                    ,22,1,KG    
+2023,2,"DOÐA GELITA, BLANCA, PAQ DE 1 KG                            ",25,1,KG    
+2023,2,A GRANEL                                                    ,23,1,KG    
+2023,2,"LA LUZ, PAQ DE 1 KG                                         ",27.5,1,KG    
+2023,2,"LOPEZ, PAQ DE 1 KG                                          ",25,1,KG    
+2023,1,A GRANEL                                                    ,23.25,1,KG    
+2023,1,A GRANEL                                                    ,24,1,KG    
+2023,1,A GRANEL                                                    ,24,1,KG    
+2023,1,A GRANEL                                                    ,23,1,KG    
+2023,1,A GRANEL                                                    ,24,1,KG    
+2023,1,A GRANEL                                                    ,22,1,KG    
+2023,1,A GRANEL                                                    ,22,1,KG    
+2023,1,"DOÐA GELITA, BLANCA, PAQ DE 1 KG                            ",25,1,KG    
+2023,1,A GRANEL                                                    ,23,1,KG    
+2023,1,"LA LUZ, PAQ DE 1 KG                                         ",27.5,1,KG    
+2023,1,"LOPEZ, PAQ DE 1 KG                                          ",25,1,KG    
+2022,12,A GRANEL                                                    ,23,1,KG    
+2022,12,A GRANEL                                                    ,24,1,KG    
+2022,12,A GRANEL                                                    ,24,1,KG    
+2022,12,A GRANEL                                                    ,23,1,KG    
+2022,12,A GRANEL                                                    ,24,1,KG    
+2022,12,A GRANEL                                                    ,22,1,KG    
+2022,12,A GRANEL                                                    ,22,1,KG    
+2022,12,"DOÐA GELITA, BLANCA, PAQ DE 1 KG                            ",25,1,KG    
+2022,12,A GRANEL                                                    ,23,1,KG    
+2022,12,"LA LUZ, PAQ DE 1 KG                                         ",27.5,1,KG    
+2022,12,"LOPEZ, PAQ DE 1 KG                                          ",25,1,KG    
+2022,11,A GRANEL                                                    ,23,1,KG    
+2022,11,A GRANEL                                                    ,24,1,KG    
+2022,11,A GRANEL                                                    ,24,1,KG    
+2022,11,A GRANEL                                                    ,23,1,KG    
+2022,11,A GRANEL                                                    ,24,1,KG    
+2022,11,A GRANEL                                                    ,22,1,KG    
+2022,11,A GRANEL                                                    ,21,1,KG    
+2022,11,"DOÐA GELITA, BLANCA, PAQ DE 1 KG                            ",25,1,KG    
+2022,11,A GRANEL                                                    ,23,1,KG    
+2022,11,"LA LUZ, PAQ DE 1 KG                                         ",27.5,1,KG    
+2022,11,"LOPEZ, PAQ DE 1 KG                                          ",24.25,1,KG    
+2022,10,A GRANEL                                                    ,23,1,KG    
+2022,10,A GRANEL                                                    ,24,1,KG    
+2022,10,A GRANEL                                                    ,24,1,KG    
+2022,10,A GRANEL                                                    ,23,1,KG    
+2022,10,A GRANEL                                                    ,24,1,KG    
+2022,10,A GRANEL                                                    ,22,1,KG    
+2022,10,A GRANEL                                                    ,20,1,KG    
+2022,10,"DOÐA GELITA, BLANCA, PAQ DE 1 KG                            ",25,1,KG    
+2022,10,A GRANEL                                                    ,23,1,KG    
+2022,10,"LA LUZ, PAQ DE 1 KG                                         ",27.5,1,KG    
+2022,10,"LOPEZ, PAQ DE 1 KG                                          ",22,1,KG    
+2022,9,A GRANEL                                                    ,23,1,KG    
+2022,9,A GRANEL                                                    ,24,1,KG    
+2022,9,A GRANEL                                                    ,24,1,KG    
+2022,9,A GRANEL                                                    ,23,1,KG    
+2022,9,A GRANEL                                                    ,24,1,KG    
+2022,9,A GRANEL                                                    ,21.75,1,KG    
+2022,9,A GRANEL                                                    ,20,1,KG    
+2022,9,"DOÐA GELITA, BLANCA, PAQ DE 1 KG                            ",25,1,KG    
+2022,9,A GRANEL                                                    ,23,1,KG    
+2022,9,"LA LUZ, PAQ DE 1 KG                                         ",27.5,1,KG    
+2022,9,"LOPEZ, PAQ DE 1 KG                                          ",22,1,KG    
+2022,8,A GRANEL                                                    ,22.75,1,KG    
+2022,8,A GRANEL                                                    ,24,1,KG    
+2022,8,A GRANEL                                                    ,23.5,1,KG    
+2022,8,A GRANEL                                                    ,22.5,1,KG    
+2022,8,A GRANEL                                                    ,23.5,1,KG    
+2022,8,A GRANEL                                                    ,21,1,KG    
+2022,8,A GRANEL                                                    ,20,1,KG    
+2022,8,"DOÐA GELITA, BLANCA, PAQ DE 1 KG                            ",24,1,KG    
+2022,8,A GRANEL                                                    ,22.5,1,KG    
+2022,8,"LA LUZ, PAQ DE 1 KG                                         ",27.5,1,KG    
+2022,8,"LOPEZ, PAQ DE 1 KG                                          ",21.5,1,KG    
+2022,7,A GRANEL                                                    ,21.5,1,KG    
+2022,7,A GRANEL                                                    ,22,1,KG    
+2022,7,A GRANEL                                                    ,22,1,KG    
+2022,7,A GRANEL                                                    ,21,1,KG    
+2022,7,A GRANEL                                                    ,22,1,KG    
+2022,7,A GRANEL                                                    ,21,1,KG    
+2022,7,A GRANEL                                                    ,20,1,KG    
+2022,7,"DOÐA GELITA, BLANCA, PAQ DE 1 KG                            ",23,1,KG    
+2022,7,A GRANEL                                                    ,22,1,KG    
+2022,7,"LA LUZ, PAQ DE 1 KG                                         ",24.9,1,KG    
+2022,7,"LOPEZ, PAQ DE 1 KG                                          ",21,1,KG    
+2022,6,A GRANEL                                                    ,21,1,KG    
+2022,6,A GRANEL                                                    ,22,1,KG    
+2022,6,A GRANEL                                                    ,22,1,KG    
+2022,6,A GRANEL                                                    ,21,1,KG    
+2022,6,A GRANEL                                                    ,22,1,KG    
+2022,6,A GRANEL                                                    ,21,1,KG    
+2022,6,A GRANEL                                                    ,20,1,KG    
+2022,6,"DOÐA GELITA, BLANCA, PAQ DE 1 KG                            ",23,1,KG    
+2022,6,A GRANEL                                                    ,22,1,KG    
+2022,6,"LA LUZ, PAQ DE 1 KG                                         ",24.9,1,KG    
+2022,6,"LOPEZ, PAQ DE 1 KG                                          ",21,1,KG    
+2022,5,A GRANEL                                                    ,21,1,KG    
+2022,5,A GRANEL                                                    ,22,1,KG    
+2022,5,A GRANEL                                                    ,22,1,KG    
+2022,5,A GRANEL                                                    ,21,1,KG    
+2022,5,A GRANEL                                                    ,22,1,KG    
+2022,5,A GRANEL                                                    ,20.75,1,KG    
+2022,5,A GRANEL                                                    ,20,1,KG    
+2022,5,"DOÐA GELITA, BLANCA, PAQ DE 1 KG                            ",23,1,KG    
+2022,5,A GRANEL                                                    ,22,1,KG    
+2022,5,"LA LUZ, PAQ DE 1 KG                                         ",24.9,1,KG    
+2022,5,"LOPEZ, PAQ DE 1 KG                                          ",21,1,KG    
+2022,4,A GRANEL                                                    ,21,1,KG    
+2022,4,A GRANEL                                                    ,22,1,KG    
+2022,4,A GRANEL                                                    ,22,1,KG    
+2022,4,A GRANEL                                                    ,21,1,KG    
+2022,4,A GRANEL                                                    ,22,1,KG    
+2022,4,A GRANEL                                                    ,20,1,KG    
+2022,4,A GRANEL                                                    ,20,1,KG    
+2022,4,"GELITA, EMPAQUETADA, BLANCA, BOLSA DE 1 KG                  ",23,1,KG    
+2022,4,A GRANEL                                                    ,22,1,KG    
+2022,4,"LA LUZ, A GRANEL, 1000 GR                                   ",24.9,1,KG    
+2022,4,"LOPEZ, EMPAQUETADA, BOLSA DE 1 KG                           ",21,1,KG    
+2022,3,A GRANEL                                                    ,21,1,KG    
+2022,3,A GRANEL                                                    ,22,1,KG    
+2022,3,A GRANEL                                                    ,22,1,KG    
+2022,3,A GRANEL                                                    ,20.25,1,KG    
+2022,3,A GRANEL                                                    ,22,1,KG    
+2022,3,A GRANEL                                                    ,20,1,KG    
+2022,3,A GRANEL                                                    ,19.5,1,KG    
+2022,3,"GELITA, EMPAQUETADA, BLANCA, BOLSA DE 1 KG                  ",22.75,1,KG    
+2022,3,A GRANEL                                                    ,20,1,KG    
+2022,3,"LA LUZ, A GRANEL, 1000 GR                                   ",24.05,1,KG    
+2022,3,"LOPEZ, EMPAQUETADA, BOLSA DE 1 KG                           ",21,1,KG    
+2022,2,A GRANEL                                                    ,21,1,KG    
+2022,2,A GRANEL                                                    ,22,1,KG    
+2022,2,A GRANEL                                                    ,22,1,KG    
+2022,2,A GRANEL                                                    ,20,1,KG    
+2022,2,A GRANEL                                                    ,22,1,KG    
+2022,2,A GRANEL                                                    ,20,1,KG    
+2022,2,A GRANEL                                                    ,19,1,KG    
+2022,2,"GELITA, EMPAQUETADA, BLANCA, BOLSA DE 1 KG                  ",22,1,KG    
+2022,2,A GRANEL                                                    ,20,1,KG    
+2022,2,"LA LUZ, A GRANEL, 1000 GR                                   ",21.5,1,KG    
+2022,2,"LOPEZ, EMPAQUETADA, BOLSA DE 1 KG                           ",21,1,KG    
+2022,1,A GRANEL                                                    ,21,1,KG    
+2022,1,A GRANEL                                                    ,22,1,KG    
+2022,1,A GRANEL                                                    ,22,1,KG    
+2022,1,A GRANEL                                                    ,20,1,KG    
+2022,1,A GRANEL                                                    ,22,1,KG    
+2022,1,A GRANEL                                                    ,20,1,KG    
+2022,1,A GRANEL                                                    ,19,1,KG    
+2022,1,"GELITA, EMPAQUETADA, BLANCA, BOLSA DE 1 KG                  ",22,1,KG    
+2022,1,A GRANEL                                                    ,20,1,KG    
+2022,1,"LA LUZ, A GRANEL, 1000 GR                                   ",21.5,1,KG    
+2022,1,"LOPEZ, EMPAQUETADA, BOLSA DE 1 KG                           ",21,1,KG    
+2021,12,A GRANEL                                                    ,21,1,KG    
+2021,12,A GRANEL                                                    ,22,1,KG    
+2021,12,A GRANEL                                                    ,22,1,KG    
+2021,12,A GRANEL                                                    ,20,1,KG    
+2021,12,A GRANEL                                                    ,22,1,KG    
+2021,12,A GRANEL                                                    ,19.25,1,KG    
+2021,12,A GRANEL                                                    ,19,1,KG    
+2021,12,"GELITA, EMPAQUETADA, BLANCA, BOLSA DE 1 KG                  ",22,1,KG    
+2021,12,A GRANEL                                                    ,20,1,KG    
+2021,12,"LA LUZ, A GRANEL, 1000 GR                                   ",21,1,KG    
+2021,12,"LOPEZ, EMPAQUETADA, BOLSA DE 1 KG                           ",21,1,KG    
+2021,11,A GRANEL                                                    ,19.5,1,KG    
+2021,11,A GRANEL                                                    ,22,1,KG    
+2021,11,A GRANEL                                                    ,22,1,KG    
+2021,11,A GRANEL                                                    ,19.25,1,KG    
+2021,11,A GRANEL                                                    ,19.75,1,KG    
+2021,11,A GRANEL                                                    ,19,1,KG    
+2021,11,A GRANEL                                                    ,19,1,KG    
+2021,11,"GELITA, EMPAQUETADA, BLANCA, BOLSA DE 1 KG                  ",22,1,KG    
+2021,11,A GRANEL                                                    ,20,1,KG    
+2021,11,"LA LUZ, A GRANEL, 1000 GR                                   ",20.18,1,KG    
+2021,11,"LOPEZ, EMPAQUETADA, BOLSA DE 1 KG                           ",21,1,KG    
+2021,10,A GRANEL                                                    ,19,1,KG    
+2021,10,A GRANEL                                                    ,22,1,KG    
+2021,10,A GRANEL                                                    ,22,1,KG    
+2021,10,A GRANEL                                                    ,19,1,KG    
+2021,10,A GRANEL                                                    ,19,1,KG    
+2021,10,A GRANEL                                                    ,19,1,KG    
+2021,10,A GRANEL                                                    ,19,1,KG    
+2021,10,"GELITA, EMPAQUETADA, BLANCA, BOLSA DE 1 KG                  ",22,1,KG    
+2021,10,A GRANEL                                                    ,20,1,KG    
+2021,10,"LA LUZ, A GRANEL, 1000 GR                                   ",19.9,1,KG    
+2021,10,"LOPEZ, EMPAQUETADA, BOLSA DE 1 KG                           ",21,1,KG    
+2021,9,A GRANEL                                                    ,19,1,KG    
+2021,9,A GRANEL                                                    ,22,1,KG    
+2021,9,A GRANEL                                                    ,22,1,KG    
+2021,9,A GRANEL                                                    ,19,1,KG    
+2021,9,A GRANEL                                                    ,19,1,KG    
+2021,9,A GRANEL                                                    ,19,1,KG    
+2021,9,A GRANEL                                                    ,19,1,KG    
+2021,9,"GELITA, EMPAQUETADA, BLANCA, BOLSA DE 1 KG                  ",22,1,KG    
+2021,9,A GRANEL                                                    ,20,1,KG    
+2021,9,"LA LUZ, A GRANEL, 1000 GR                                   ",19.9,1,KG    
+2021,9,"LOPEZ, EMPAQUETADA, BOLSA DE 1 KG                           ",21,1,KG    
+2021,8,A GRANEL                                                    ,19,1,KG    
+2021,8,A GRANEL                                                    ,22,1,KG    
+2021,8,A GRANEL                                                    ,22,1,KG    
+2021,8,A GRANEL                                                    ,19,1,KG    
+2021,8,A GRANEL                                                    ,19,1,KG    
+2021,8,A GRANEL                                                    ,19,1,KG    
+2021,8,A GRANEL                                                    ,19,1,KG    
+2021,8,"GELITA, EMPAQUETADA, BLANCA, BOLSA DE 1 KG                  ",22,1,KG    
+2021,8,A GRANEL                                                    ,20,1,KG    
+2021,8,"LA LUZ, A GRANEL, 1000 GR                                   ",19.9,1,KG    
+2021,8,"LOPEZ, EMPAQUETADA, BOLSA DE 1 KG                           ",20.5,1,KG    
+2021,7,A GRANEL                                                    ,19,1,KG    
+2021,7,A GRANEL                                                    ,20,1,KG    
+2021,7,A GRANEL                                                    ,20.5,1,KG    
+2021,7,A GRANEL                                                    ,19,1,KG    
+2021,7,A GRANEL                                                    ,19,1,KG    
+2021,7,A GRANEL                                                    ,19,1,KG    
+2021,7,A GRANEL                                                    ,19,1,KG    
+2021,7,"GELITA, EMPAQUETADA, BLANCA, BOLSA DE 1 KG                  ",21,1,KG    
+2021,7,A GRANEL                                                    ,19.5,1,KG    
+2021,7,"LA LUZ, A GRANEL, 1000 GR                                   ",19.8,1,KG    
+2021,7,"LOPEZ, EMPAQUETADA, BOLSA DE 1 KG                           ",19,1,KG    
+2021,6,A GRANEL                                                    ,18.25,1,KG    
+2021,6,A GRANEL                                                    ,19.5,1,KG    
+2021,6,A GRANEL                                                    ,19,1,KG    
+2021,6,A GRANEL                                                    ,18.75,1,KG    
+2021,6,A GRANEL                                                    ,19,1,KG    
+2021,6,A GRANEL                                                    ,19,1,KG    
+2021,6,A GRANEL                                                    ,19,1,KG    
+2021,6,"GELITA, EMPAQUETADA, BLANCA, BOLSA DE 1 KG                  ",20,1,KG    
+2021,6,A GRANEL                                                    ,18,1,KG    
+2021,6,"LA LUZ, A GRANEL, 1000 GR                                   ",19.5,1,KG    
+2021,6,"LOPEZ, EMPAQUETADA, BOLSA DE 1 KG                           ",19,1,KG    
+2021,5,A GRANEL                                                    ,18,1,KG    
+2021,5,A GRANEL                                                    ,19,1,KG    
+2021,5,A GRANEL                                                    ,19,1,KG    
+2021,5,A GRANEL                                                    ,18,1,KG    
+2021,5,A GRANEL                                                    ,19,1,KG    
+2021,5,A GRANEL                                                    ,18.75,1,KG    
+2021,5,A GRANEL                                                    ,19,1,KG    
+2021,5,"GELITA, EMPAQUETADA, BLANCA, BOLSA DE 1 KG                  ",20,1,KG    
+2021,5,A GRANEL                                                    ,18,1,KG    
+2021,5,"LA LUZ, A GRANEL, 1000 GR                                   ",19.5,1,KG    
+2021,5,"LOPEZ, EMPAQUETADA, BOLSA DE 1 KG                           ",19,1,KG    
+2021,4,A GRANEL                                                    ,18,1,KG    
+2021,4,A GRANEL                                                    ,19,1,KG    
+2021,4,A GRANEL                                                    ,18.84,1,KG    
+2021,4,A GRANEL                                                    ,18,1,KG    
+2021,4,A GRANEL                                                    ,18.25,1,KG    
+2021,4,A GRANEL                                                    ,18,1,KG    
+2021,4,A GRANEL                                                    ,17.69,1,KG    
+2021,4,"GELITA, EMPAQUETADA, BLANCA, BOLSA DE 1 KG                  ",20,1,KG    
+2021,4,A GRANEL                                                    ,18,1,KG    
+2021,4,"LA LUZ, A GRANEL, 1000 GR                                   ",19.65,1,KG    
+2021,4,"LOPEZ, EMPAQUETADA, BOLSA DE 1 KG                           ",18.5,1,KG    
+2021,3,A GRANEL                                                    ,18,1,KG    
+2021,3,A GRANEL                                                    ,18.25,1,KG    
+2021,3,A GRANEL                                                    ,18.54,1,KG    
+2021,3,A GRANEL                                                    ,18,1,KG    
+2021,3,A GRANEL                                                    ,18,1,KG    
+2021,3,A GRANEL                                                    ,18,1,KG    
+2021,3,A GRANEL                                                    ,17.42,1,KG    
+2021,3,"GELITA, EMPAQUETADA, BLANCA, BOLSA DE 1 KG                  ",19,1,KG    
+2021,3,A GRANEL                                                    ,17.75,1,KG    
+2021,3,"LA LUZ, A GRANEL, 1000 GR                                   ",19.8,1,KG    
+2021,3,"LOPEZ, EMPAQUETADA, BOLSA DE 1 KG                           ",18,1,KG    
+2021,2,A GRANEL                                                    ,18,1,KG    
+2021,2,A GRANEL                                                    ,18,1,KG    
+2021,2,A GRANEL                                                    ,18.32,1,KG    
+2021,2,A GRANEL                                                    ,18.02,1,KG    
+2021,2,A GRANEL                                                    ,18,1,KG    
+2021,2,A GRANEL                                                    ,18,1,KG    
+2021,2,A GRANEL                                                    ,17.21,1,KG    
+2021,2,"GELITA, EMPAQUETADA, BLANCA, BOLSA DE 1 KG                  ",18,1,KG    
+2021,2,A GRANEL                                                    ,17,1,KG    
+2021,2,"LA LUZ, A GRANEL, 1000 GR                                   ",19.8,1,KG    
+2021,2,"LOPEZ, EMPAQUETADA, BOLSA DE 1 KG                           ",18,1,KG    
+2021,1,A GRANEL,18,1,KG
+2021,1,A GRANEL,18,1,KG
+2021,1,A GRANEL,18.23,1,KG
+2021,1,A GRANEL,18,1,KG
+2021,1,A GRANEL,18,1,KG
+2021,1,A GRANEL,17.5,1,KG
+2021,1,A GRANEL,17.12,1,KG
+2021,1,"GELITA, EMPAQUETADA, BLANCA, BOLSA DE 1 KG",18,1,KG
+2021,1,A GRANEL,17,1,KG
+2021,1,"LA LUZ, A GRANEL, 1000 GR",19.5,1,KG
+2021,1,"LOPEZ, EMPAQUETADA, BOLSA DE 1 KG",18,1,KG
+2020,12,A GRANEL,18,1,KG
+2020,12,A GRANEL,18,1,KG
+2020,12,A GRANEL,18.17,1,KG
+2020,12,A GRANEL,18,1,KG
+2020,12,A GRANEL,18,1,KG
+2020,12,A GRANEL,17,1,KG
+2020,12,A GRANEL,17.07,1,KG
+2020,12,"GELITA, EMPAQUETADA, BLANCA, BOLSA DE 1 KG",18,1,KG
+2020,12,A GRANEL,17,1,KG
+2020,12,"LA LUZ, A GRANEL, 1000 GR",19.5,1,KG
+2020,12,"LOPEZ, EMPAQUETADA, BOLSA DE 1 KG",18,1,KG
+2020,11,A GRANEL,18,1,KG
+2020,11,A GRANEL,18,1,KG
+2020,11,A GRANEL,18.17,1,KG
+2020,11,A GRANEL,18,1,KG
+2020,11,A GRANEL,18,1,KG
+2020,11,A GRANEL,17,1,KG
+2020,11,A GRANEL,17.07,1,KG
+2020,11,"GELITA, EMPAQUETADA, BLANCA, BOLSA DE 1 KG",18,1,KG
+2020,11,A GRANEL,17,1,KG
+2020,11,"LA LUZ, A GRANEL, 1000 GR",19.5,1,KG
+2020,11,"LOPEZ, EMPAQUETADA, BOLSA DE 1 KG",18,1,KG
+2020,10,A GRANEL,18,1,KG
+2020,10,A GRANEL,18,1,KG
+2020,10,A GRANEL,18.17,1,KG
+2020,10,A GRANEL,18,1,KG
+2020,10,A GRANEL,18,1,KG
+2020,10,A GRANEL,17,1,KG
+2020,10,A GRANEL,17.07,1,KG
+2020,10,"GELITA, EMPAQUETADA, BLANCA, BOLSA DE 1 KG",18,1,KG
+2020,10,A GRANEL,17,1,KG
+2020,10,"LA LUZ, A GRANEL, 1000 GR",19.5,1,KG
+2020,10,"LOPEZ, EMPAQUETADA, BOLSA DE 1 KG",18,1,KG
+2020,9,A GRANEL,18,1,KG
+2020,9,A GRANEL,18,1,KG
+2020,9,A GRANEL,18.17,1,KG
+2020,9,A GRANEL,18,1,KG
+2020,9,A GRANEL,18,1,KG
+2020,9,A GRANEL,17,1,KG
+2020,9,A GRANEL,17.07,1,KG
+2020,9,"GELITA, EMPAQUETADA, BLANCA, BOLSA DE 1 KG",18,1,KG
+2020,9,A GRANEL,17,1,KG
+2020,9,"LA LUZ, A GRANEL, 1000 GR",19.5,1,KG
+2020,9,"LOPEZ, EMPAQUETADA, BOLSA DE 1 KG",18,1,KG
+2020,8,A GRANEL,18,1,KG
+2020,8,A GRANEL,18,1,KG
+2020,8,A GRANEL,18.27,1,KG
+2020,8,A GRANEL,17.5,1,KG
+2020,8,A GRANEL,18,1,KG
+2020,8,A GRANEL,17,1,KG
+2020,8,A GRANEL,17.16,1,KG
+2020,8,"GELITA, EMPAQUETADA, BLANCA, BOLSA DE 1 KG",18,1,KG
+2020,8,A GRANEL,17,1,KG
+2020,8,"LA LUZ, A GRANEL, 1000 GR",21.06,1,KG
+2020,8,"LOPEZ, EMPAQUETADA, BOLSA DE 1 KG",18,1,KG
+2020,7,A GRANEL,18,1,KG
+2020,7,A GRANEL,18,1,KG
+2020,7,A GRANEL,18.21,1,KG
+2020,7,A GRANEL,17,1,KG
+2020,7,A GRANEL,18,1,KG
+2020,7,A GRANEL,17,1,KG
+2020,7,A GRANEL,17.1,1,KG
+2020,7,"GELITA, EMPAQUETADA, BLANCA, BOLSA DE 1 KG",18,1,KG
+2020,7,A GRANEL,17,1,KG
+2020,7,"LA LUZ, A GRANEL, 1000 GR",20.98,1,KG
+2020,7,"LOPEZ, EMPAQUETADA, BOLSA DE 1 KG",18,1,KG
+2020,6,A GRANEL,18,1,KG
+2020,6,A GRANEL,18,1,KG
+2020,6,A GRANEL,18.21,1,KG
+2020,6,A GRANEL,17.06,1,KG
+2020,6,A GRANEL,18,1,KG
+2020,6,A GRANEL,17,1,KG
+2020,6,A GRANEL,17.11,1,KG
+2020,6,"GELITA, EMPAQUETADA, BLANCA, BOLSA DE 1 KG",18,1,KG
+2020,6,A GRANEL,17,1,KG
+2020,6,"LA LUZ, A GRANEL, 1000 GR",20.99,1,KG
+2020,6,"LOPEZ, EMPAQUETADA, BOLSA DE 1 KG",18,1,KG
+2020,5,A GRANEL,18,1,KG
+2020,5,A GRANEL,18,1,KG
+2020,5,A GRANEL,18.22,1,KG
+2020,5,A GRANEL,17.11,1,KG
+2020,5,A GRANEL,18,1,KG
+2020,5,A GRANEL,17,1,KG
+2020,5,A GRANEL,17.11,1,KG
+2020,5,"GELITA, EMPAQUETADA, BLANCA, BOLSA DE 1 KG",18,1,KG
+2020,5,A GRANEL,17,1,KG
+2020,5,"LA LUZ, A GRANEL, 1000 GR",21,1,KG
+2020,5,"LOPEZ, EMPAQUETADA, BOLSA DE 1 KG",18,1,KG
+2020,4,A GRANEL,18,1,KG
+2020,4,A GRANEL,18,1,KG
+2020,4,A GRANEL,18.22,1,KG
+2020,4,A GRANEL,17.11,1,KG
+2020,4,A GRANEL,18,1,KG
+2020,4,A GRANEL,17,1,KG
+2020,4,A GRANEL,17.11,1,KG
+2020,4,"GELITA, EMPAQUETADA, BLANCA, BOLSA DE 1 KG",18,1,KG
+2020,4,A GRANEL,17,1,KG
+2020,4,"LA LUZ, A GRANEL, 1000 GR",21,1,KG
+2020,4,"LOPEZ, EMPAQUETADA, BOLSA DE 1 KG",18,1,KG
+2020,3,A GRANEL,17.25,1,KG
+2020,3,A GRANEL,18,1,KG
+2020,3,A GRANEL,18.05,1,KG
+2020,3,A GRANEL,17,1,KG
+2020,3,A GRANEL,18,1,KG
+2020,3,A GRANEL,17,1,KG
+2020,3,A GRANEL,17,1,KG
+2020,3,"GELITA, EMPAQUETADA, BLANCA, BOLSA DE 1 KG",18,1,KG
+2020,3,A GRANEL,17,1,KG
+2020,3,"LA LUZ, A GRANEL, 1000 GR",20.21,1,KG
+2020,3,"LOPEZ, EMPAQUETADA, BOLSA DE 1 KG",18,1,KG
+2020,2,A GRANEL,17,1,KG
+2020,2,A GRANEL,18,1,KG
+2020,2,A GRANEL,17,1,KG
+2020,2,A GRANEL,17,1,KG
+2020,2,A GRANEL,18,1,KG
+2020,2,A GRANEL,17,1,KG
+2020,2,A GRANEL,17,1,KG
+2020,2,"GELITA, EMPAQUETADA, BLANCA, BOLSA DE 1 KG",18,1,KG
+2020,2,A GRANEL,17,1,KG
+2020,2,"LA LUZ, A GRANEL, 1000 GR",19.95,1,KG
+2020,2,"LOPEZ, EMPAQUETADA, BOLSA DE 1 KG",18,1,KG
+2020,1,A GRANEL,17,1,KG
+2020,1,A GRANEL,17.25,1,KG
+2020,1,A GRANEL,17,1,KG
+2020,1,A GRANEL,17,1,KG
+2020,1,A GRANEL,17,1,KG
+2020,1,A GRANEL,16.5,1,KG
+2020,1,A GRANEL,17,1,KG
+2020,1,"GELITA, EMPAQUETADA, BLANCA, BOLSA DE 1 KG",17.75,1,KG
+2020,1,A GRANEL,17,1,KG
+2020,1,"LA LUZ, A GRANEL, 1000 GR",19.95,1,KG
+2020,1,"LOPEZ, EMPAQUETADA, BOLSA DE 1 KG",18,1,KG
+2019,12,A GRANEL,17,1,KG
+2019,12,A GRANEL,17,1,KG
+2019,12,A GRANEL,17,1,KG
+2019,12,A GRANEL,17,1,KG
+2019,12,A GRANEL,17,1,KG
+2019,12,A GRANEL,16,1,KG
+2019,12,A GRANEL,17,1,KG
+2019,12,"GELITA, EMPAQUETADA, BLANCA, BOLSA DE 1 KG",17,1,KG
+2019,12,A GRANEL,16,1,KG
+2019,12,"LA LUZ, A GRANEL, 1000 GR",19.95,1,KG
+2019,12,"LOPEZ, EMPAQUETADA, BOLSA DE 1 KG",17.25,1,KG
+2019,11,A GRANEL,17,1,KG
+2019,11,A GRANEL,17,1,KG
+2019,11,A GRANEL,17,1,KG
+2019,11,A GRANEL,17,1,KG
+2019,11,A GRANEL,17,1,KG
+2019,11,A GRANEL,16,1,KG
+2019,11,A GRANEL,17,1,KG
+2019,11,"GELITA, EMPAQUETADA, BLANCA, BOLSA DE 1 KG",17,1,KG
+2019,11,A GRANEL,16,1,KG
+2019,11,"LA LUZ, A GRANEL, 1000 GR",19.95,1,KG
+2019,11,"LOPEZ, EMPAQUETADA, BOLSA DE 1 KG",17,1,KG
+2019,10,A GRANEL,17,1,KG
+2019,10,A GRANEL,17,1,KG
+2019,10,A GRANEL,17,1,KG
+2019,10,A GRANEL,17,1,KG
+2019,10,A GRANEL,17,1,KG
+2019,10,A GRANEL,16,1,KG
+2019,10,A GRANEL,17,1,KG
+2019,10,"GELITA, EMPAQUETADA, BLANCA, BOLSA DE 1 KG",17,1,KG
+2019,10,A GRANEL,16,1,KG
+2019,10,"LA LUZ, A GRANEL, 1000 GR",19.95,1,KG
+2019,10,"LOPEZ, EMPAQUETADA, BOLSA DE 1 KG",17,1,KG
+2019,9,A GRANEL,17,1,KG
+2019,9,A GRANEL,17,1,KG
+2019,9,A GRANEL,17,1,KG
+2019,9,A GRANEL,17,1,KG
+2019,9,A GRANEL,17,1,KG
+2019,9,A GRANEL,16,1,KG
+2019,9,A GRANEL,17,1,KG
+2019,9,"GELITA, EMPAQUETADA, BLANCA, BOLSA DE 1 KG",17,1,KG
+2019,9,A GRANEL,16,1,KG
+2019,9,"LA LUZ, A GRANEL, 1000 GR",19.95,1,KG
+2019,9,"LOPEZ, EMPAQUETADA, BOLSA DE 1 KG",17,1,KG
+2019,8,A GRANEL,17,1,KG
+2019,8,A GRANEL,17,1,KG
+2019,8,A GRANEL,17,1,KG
+2019,8,A GRANEL,17,1,KG
+2019,8,A GRANEL,17,1,KG
+2019,8,A GRANEL,16,1,KG
+2019,8,A GRANEL,17,1,KG
+2019,8,"GELITA, EMPAQUETADA, BLANCA, BOLSA DE 1 KG",17,1,KG
+2019,8,A GRANEL,16,1,KG
+2019,8,"LA LUZ, A GRANEL, 1000 GR",19.95,1,KG
+2019,8,"LOPEZ, EMPAQUETADA, BOLSA DE 1 KG",17,1,KG
+2019,7,A GRANEL,17,1,KG
+2019,7,A GRANEL,17,1,KG
+2019,7,A GRANEL,17,1,KG
+2019,7,A GRANEL,17,1,KG
+2019,7,A GRANEL,17,1,KG
+2019,7,A GRANEL,16,1,KG
+2019,7,A GRANEL,17,1,KG
+2019,7,"GELITA, EMPAQUETADA, BLANCA, BOLSA DE 1 KG",17,1,KG
+2019,7,A GRANEL,16,1,KG
+2019,7,"LA LUZ, A GRANEL, 1000 GR",19.95,1,KG
+2019,7,"LOPEZ, EMPAQUETADA, BOLSA DE 1 KG",17,1,KG
+2019,6,A GRANEL,17,1,KG
+2019,6,A GRANEL,17,1,KG
+2019,6,A GRANEL,17,1,KG
+2019,6,A GRANEL,17,1,KG
+2019,6,A GRANEL,17,1,KG
+2019,6,A GRANEL,14.09,1,KG
+2019,6,A GRANEL,17,1,KG
+2019,6,"GELITA, EMPAQUETADA, BLANCA, BOLSA DE 1 KG",17,1,KG
+2019,6,A GRANEL,16,1,KG
+2019,6,"LA LUZ, A GRANEL, 1000 GR",19.95,1,KG
+2019,6,"LOPEZ, EMPAQUETADA, BOLSA DE 1 KG",17,1,KG
+2019,5,A GRANEL,17,1,KG
+2019,5,A GRANEL,17,1,KG
+2019,5,A GRANEL,17,1,KG
+2019,5,A GRANEL,17,1,KG
+2019,5,A GRANEL,17,1,KG
+2019,5,A GRANEL,14.09,1,KG
+2019,5,A GRANEL,17,1,KG
+2019,5,"GELITA, EMPAQUETADA, BLANCA, BOLSA DE 1 KG",17,1,KG
+2019,5,A GRANEL,16,1,KG
+2019,5,"LA LUZ, A GRANEL, 1000 GR",19.95,1,KG
+2019,5,"LOPEZ, EMPAQUETADA, BOLSA DE 1 KG",17,1,KG
+2019,4,A GRANEL,17,1,KG
+2019,4,A GRANEL,17,1,KG
+2019,4,A GRANEL,16.75,1,KG
+2019,4,A GRANEL,17,1,KG
+2019,4,A GRANEL,17,1,KG
+2019,4,A GRANEL,14.05,1,KG
+2019,4,A GRANEL,16.75,1,KG
+2019,4,"GELITA, EMPAQUETADA, BLANCA, BOLSA DE 1 KG",17,1,KG
+2019,4,A GRANEL,16,1,KG
+2019,4,"LA REGIA, EMPAQUETADA, A GRANEL",16.36,1,KG
+2019,4,"LOPEZ, EMPAQUETADA, BOLSA DE 1 KG",17,1,KG
+2019,3,A GRANEL,17,1,KG
+2019,3,A GRANEL,17,1,KG
+2019,3,A GRANEL,16,1,KG
+2019,3,A GRANEL,15,1,KG
+2019,3,A GRANEL,17,1,KG
+2019,3,A GRANEL,14,1,KG
+2019,3,A GRANEL,16,1,KG
+2019,3,"GELITA, EMPAQUETADA, BLANCA, BOLSA DE 1 KG",17,1,KG
+2019,3,A GRANEL,16,1,KG
+2019,3,"LA REGIA, EMPAQUETADA, A GRANEL",16,1,KG
+2019,3,"LOPEZ, EMPAQUETADA, BOLSA DE 1 KG",17,1,KG
+2019,2,A GRANEL,16.25,1,KG
+2019,2,A GRANEL,17,1,KG
+2019,2,A GRANEL,16,1,KG
+2019,2,A GRANEL,15,1,KG
+2019,2,A GRANEL,16.25,1,KG
+2019,2,A GRANEL,14,1,KG
+2019,2,A GRANEL,16,1,KG
+2019,2,"GELITA, EMPAQUETADA, BLANCA, BOLSA DE 1 KG",17,1,KG
+2019,2,A GRANEL,16,1,KG
+2019,2,"LA REGIA, EMPAQUETADA, A GRANEL",16,1,KG
+2019,2,"LOPEZ, EMPAQUETADA, BOLSA DE 1 KG",17,1,KG
+2019,1,A GRANEL,16,1,KG
+2019,1,A GRANEL,16.25,1,KG
+2019,1,A GRANEL,16,1,KG
+2019,1,A GRANEL,15,1,KG
+2019,1,A GRANEL,16,1,KG
+2019,1,A GRANEL,14,1,KG
+2019,1,A GRANEL,16,1,KG
+2019,1,"GELITA, EMPAQUETADA, BLANCA, BOLSA DE 1 KG",17,1,KG
+2019,1,A GRANEL,16,1,KG
+2019,1,"LA REGIA, EMPAQUETADA, A GRANEL",16,1,KG
+2019,1,"LOPEZ, EMPAQUETADA, BOLSA DE 1 KG",17,1,KG
+2018,12,A GRANEL,16,1,KG
+2018,12,A GRANEL,16,1,KG
+2018,12,A GRANEL,16,1,KG
+2018,12,A GRANEL,15,1,KG
+2018,12,A GRANEL,16,1,KG
+2018,12,A GRANEL,14,1,KG
+2018,12,A GRANEL,16,1,KG
+2018,12,"GELITA, EMPAQUETADA, BLANCA, BOLSA DE 1 KG",17,1,KG
+2018,12,A GRANEL,16,1,KG
+2018,12,"LA REGIA, EMPAQUETADA, A GRANEL",16,1,KG
+2018,12,"LOPEZ, EMPAQUETADA, BOLSA DE 1 KG",17,1,KG
+2018,11,A GRANEL,16,1,KG
+2018,11,A GRANEL,16,1,KG
+2018,11,A GRANEL,16,1,KG
+2018,11,A GRANEL,15,1,KG
+2018,11,A GRANEL,16,1,KG
+2018,11,A GRANEL,14,1,KG
+2018,11,A GRANEL,16,1,KG
+2018,11,"GELITA, EMPAQUETADA, BLANCA, BOLSA DE 1 KG",17,1,KG
+2018,11,A GRANEL,16,1,KG
+2018,11,"LA REGIA, EMPAQUETADA, A GRANEL",14.65,1,KG
+2018,11,"LOPEZ, EMPAQUETADA, BOLSA DE 1 KG",17,1,KG
+2018,10,A GRANEL,16,1,KG
+2018,10,A GRANEL,16,1,KG
+2018,10,A GRANEL,16,1,KG
+2018,10,A GRANEL,15,1,KG
+2018,10,A GRANEL,16,1,KG
+2018,10,A GRANEL,14,1,KG
+2018,10,A GRANEL,16,1,KG
+2018,10,"GELITA, EMPAQUETADA, BLANCA, BOLSA DE 1 KG",17,1,KG
+2018,10,A GRANEL,16,1,KG
+2018,10,"LA REGIA, EMPAQUETADA, A GRANEL",14.65,1,KG
+2018,10,"LOPEZ, EMPAQUETADA, BOLSA DE 1 KG",16.5,1,KG
+2018,9,A GRANEL,16,1,KG
+2018,9,A GRANEL,16,1,KG
+2018,9,A GRANEL,16,1,KG
+2018,9,A GRANEL,15,1,KG
+2018,9,A GRANEL,16,1,KG
+2018,9,A GRANEL,14,1,KG
+2018,9,A GRANEL,16,1,KG
+2018,9,"GELITA, EMPAQUETADA, BLANCA, BOLSA DE 1 KG",17,1,KG
+2018,9,A GRANEL,16,1,KG
+2018,9,"LA REGIA, EMPAQUETADA, A GRANEL",14.65,1,KG
+2018,9,"LOPEZ, EMPAQUETADA, BOLSA DE 1 KG",16,1,KG
+2018,8,A GRANEL,16,1,KG
+2018,8,A GRANEL,16,1,KG
+2018,8,A GRANEL,16,1,KG
+2018,8,A GRANEL,15,1,KG
+2018,8,A GRANEL,16,1,KG
+2018,8,A GRANEL,14,1,KG
+2018,8,A GRANEL,16,1,KG
+2018,8,"GELITA, EMPAQUETADA, BLANCA, BOLSA DE 1 KG",17,1,KG
+2018,8,A GRANEL,16,1,KG
+2018,8,"LA REGIA, EMPAQUETADA, A GRANEL",14.65,1,KG
+2018,8,"LOPEZ, EMPAQUETADA, BOLSA DE 1 KG",16,1,KG

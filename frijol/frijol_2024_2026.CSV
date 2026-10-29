@@ -1,0 +1,287 @@
+Anio,Mes,Especificacion,Precio promedio,Cantidad,Unidad
+2026,5,"VERDE VALLE, PERUANO, BOLSA DE 900 GR                       ",68.89,1,KG    
+2026,5,"VERDE VALLE, PERUANO, MAYOCOBA, BOLSA DE 900 GR             ",63.22,1,KG    
+2026,5,"MI TIENDA DEL AHORRO MP, PINTO, BOLSA DE 907 GR             ",19.18,1,KG    
+2026,5,"PINTO,  AMERICANO, A GRANEL,                                ",30,1,KG    
+2026,5,"PINTO, A GRANEL                                             ",22,1,KG    
+2026,5,"PERUANO, BOLSA DE 1 KG                                      ",50,1,KG    
+2026,5,"MP, PINTO, BOLSA DE 900 G                                   ",20.56,1,KG    
+2026,5,"VERDE VALLE, PERUANO, BOLSA DE 900 G                        ",76.67,1,KG    
+2026,5,"MP, PINTO, BOLSA DE 900 G                                   ",22.22,1,KG    
+2026,5,"PRECISSIMO, PINTO, BOLSA DE 908 GR                          ",30.29,1,KG    
+2026,5,"VERDE VALLE, PERUANO, BOLSA DE 900 G                        ",68.89,1,KG    
+2026,5,"EL JARRO, PINTO, AMERICANO, BOLSA DE 907 GR                 ",42.45,1,KG    
+2026,5,"PINTO, A GRANEL                                             ",35,1,KG    
+2026,4,"VERDE VALLE, PERUANO, BOLSA DE 900 GR                       ",68.89,1,KG    
+2026,4,"VERDE VALLE, PERUANO, MAYOCOBA, BOLSA DE 900 GR             ",71,1,KG    
+2026,4,"MI TIENDA DEL AHORRO MP, PINTO, BOLSA DE 907 GR             ",22,1,KG    
+2026,4,"PINTO,  AMERICANO, A GRANEL,                                ",30,1,KG    
+2026,4,"PINTO, A GRANEL                                             ",22,1,KG    
+2026,4,"PERUANO, BOLSA DE 1 KG                                      ",50,1,KG    
+2026,4,"MP, PINTO, BOLSA DE 900 G                                   ",23.33,1,KG    
+2026,4,"VERDE VALLE, PERUANO, BOLSA DE 900 G                        ",76.67,1,KG    
+2026,4,"MP, PINTO, BOLSA DE 900 G                                   ",23.33,1,KG    
+2026,4,"PRECISSIMO, PINTO, BOLSA DE 908 GR                          ",31.39,1,KG    
+2026,4,"VERDE VALLE, PERUANO, BOLSA DE 900 G                        ",65,1,KG    
+2026,4,"EL JARRO, PINTO, AMERICANO, BOLSA DE 907 GR                 ",42.45,1,KG    
+2026,4,"PINTO, A GRANEL                                             ",35,1,KG    
+2026,3,"VERDE VALLE, PERUANO, BOLSA DE 900 GR                       ",68.89,1,KG    
+2026,3,"VERDE VALLE, PERUANO, MAYOCOBA, BOLSA DE 900 GR             ",71,1,KG    
+2026,3,"MI TIENDA DEL AHORRO MP, PINTO, BOLSA DE 907 GR             ",21.5,1,KG    
+2026,3,"PINTO,  AMERICANO, A GRANEL,                                ",30,1,KG    
+2026,3,"PINTO, A GRANEL                                             ",22.75,1,KG    
+2026,3,"PERUANO, BOLSA DE 1 KG                                      ",50,1,KG    
+2026,3,"MP, PINTO, BOLSA DE 900 G                                   ",26.94,1,KG    
+2026,3,"VERDE VALLE, PERUANO, BOLSA DE 900 G                        ",76.67,1,KG    
+2026,3,"MP, PINTO, BOLSA DE 900 G                                   ",25.56,1,KG    
+2026,3,"PRECISSIMO, PINTO, BOLSA DE 908 GR                          ",31.39,1,KG    
+2026,3,"VERDE VALLE, PERUANO, BOLSA DE 900 G                        ",66.94,1,KG    
+2026,3,"EL JARRO, PINTO, AMERICANO, BOLSA DE 907 GR                 ",42.45,1,KG    
+2026,3,"PINTO, A GRANEL                                             ",35,1,KG    
+2026,2,"VERDE VALLE, PERUANO, BOLSA DE 900 GR                       ",68.89,1,KG    
+2026,2,"VERDE VALLE, PERUANO, MAYOCOBA, BOLSA DE 900 GR             ",72.11,1,KG    
+2026,2,"MI TIENDA DEL AHORRO MP, PINTO, BOLSA DE 907 GR             ",21.89,1,KG    
+2026,2,"PINTO,  AMERICANO, A GRANEL,                                ",30,1,KG    
+2026,2,"PINTO, A GRANEL                                             ",25,1,KG    
+2026,2,"PERUANO, BOLSA DE 1 KG                                      ",50,1,KG    
+2026,2,"MP, PINTO, BOLSA DE 900 G                                   ",28.33,1,KG    
+2026,2,"VERDE VALLE, PERUANO, BOLSA DE 900 G                        ",76.67,1,KG    
+2026,2,"MP, PINTO, BOLSA DE 900 G                                   ",25.56,1,KG    
+2026,2,"PRECISSIMO, PINTO, BOLSA DE 908 GR                          ",31.39,1,KG    
+2026,2,"VERDE VALLE, PERUANO, BOLSA DE 900 G                        ",68.89,1,KG    
+2026,2,"EL JARRO, PINTO, AMERICANO, BOLSA DE 907 GR                 ",42.45,1,KG    
+2026,2,"PINTO, A GRANEL                                             ",35,1,KG    
+2026,1,"VERDE VALLE, PERUANO, BOLSA DE 900 GR                       ",68.89,1,KG    
+2026,1,"VERDE VALLE, PERUANO, MAYOCOBA, BOLSA DE 900 GR             ",71.55,1,KG    
+2026,1,"MI TIENDA DEL AHORRO MP, PINTO, BOLSA DE 907 GR             ",23.04,1,KG    
+2026,1,"PINTO,  AMERICANO, A GRANEL,                                ",31.25,1,KG    
+2026,1,"PINTO, A GRANEL                                             ",25,1,KG    
+2026,1,"PERUANO, BOLSA DE 1 KG                                      ",50,1,KG    
+2026,1,"MP, PINTO, BOLSA DE 900 G                                   ",26.94,1,KG    
+2026,1,"VERDE VALLE, PERUANO, BOLSA DE 900 G                        ",76.67,1,KG    
+2026,1,"MP, PINTO, BOLSA DE 900 G                                   ",26.11,1,KG    
+2026,1,"PRECISSIMO, PINTO, BOLSA DE 908 GR                          ",43.94,1,KG    
+2026,1,"VERDE VALLE, PERUANO, BOLSA DE 900 G                        ",68.89,1,KG    
+2026,1,"EL JARRO, PINTO, AMERICANO, BOLSA DE 907 GR                 ",42.45,1,KG    
+2026,1,"PINTO, A GRANEL                                             ",35,1,KG    
+2025,12,"VERDE VALLE, PERUANO, BOLSA DE 900 GR                       ",68.89,1,KG    
+2025,12,"VERDE VALLE, PERUANO, MAYOCOBA, BOLSA DE 900 GR             ",71,1,KG    
+2025,12,"MI TIENDA DEL AHORRO MP, PINTO, BOLSA DE 907 GR             ",21.94,1,KG    
+2025,12,"PINTO,  AMERICANO, A GRANEL,                                ",35,1,KG    
+2025,12,"PINTO, A GRANEL                                             ",26,1,KG    
+2025,12,"PERUANO, BOLSA DE 1 KG                                      ",45,1,KG    
+2025,12,"MP, PINTO, BOLSA DE 900 G                                   ",27.78,1,KG    
+2025,12,"VERDE VALLE, PERUANO, BOLSA DE 900 G                        ",76.67,1,KG    
+2025,12,"MP, PINTO, BOLSA DE 900 G                                   ",25.56,1,KG    
+2025,12,"PRECISSIMO, PINTO, BOLSA DE 908 GR                          ",35.52,1,KG    
+2025,12,"VERDE VALLE, PERUANO, BOLSA DE 900 G                        ",68.89,1,KG    
+2025,12,"EL JARRO, PINTO, AMERICANO, BOLSA DE 907 GR                 ",42.45,1,KG    
+2025,12,"PINTO, A GRANEL                                             ",35,1,KG    
+2025,11,"VERDE VALLE, PERUANO, BOLSA DE 900 GR                       ",73.89,1,KG    
+2025,11,"VERDE VALLE, PERUANO, MAYOCOBA, BOLSA DE 900 GR             ",73.78,1,KG    
+2025,11,"MI TIENDA DEL AHORRO MP, PINTO, BOLSA DE 907 GR             ",21.94,1,KG    
+2025,11,"PINTO,  AMERICANO, A GRANEL,                                ",40,1,KG    
+2025,11,"PINTO, A GRANEL                                             ",26,1,KG    
+2025,11,"PERUANO, BOLSA DE 1 KG                                      ",44.25,1,KG    
+2025,11,"MP, PINTO, BOLSA DE 900 GR                                  ",33.89,1,GR    
+2025,11,"VERDE VALLE, PERUANO, BOLSA DE 900 GR                       ",76.67,1,GR    
+2025,11,"MP, PINTO, BOLSA DE 900 GR                                  ",26.53,1,GR    
+2025,11,"PRECISSIMO, PINTO, BOLSA DE 908 GR                          ",43.5,1,KG    
+2025,11,"VERDE VALLE, PERUANO, BOLSA DE 900 GR                       ",72.22,1,GR    
+2025,11,"EL JARRO, PINTO, AMERICANO, BOLSA DE 907 GR                 ",37.49,1,KG    
+2025,11,"PINTO, A GRANEL                                             ",35.5,1,KG    
+2025,10,"VERDE VALLE, PERUANO, BOLSA DE 900 GR                       ",75.55,1,KG    
+2025,10,"VERDE VALLE, PERUANO, MAYOCOBA, BOLSA DE 900 GR             ",77.67,1,KG    
+2025,10,"MI TIENDA DEL AHORRO MP, PINTO, BOLSA DE 907 GR             ",22.49,1,KG    
+2025,10,"PINTO,  AMERICANO, A GRANEL,                                ",40,1,KG    
+2025,10,"PINTO, A GRANEL                                             ",30,1,KG    
+2025,10,"PERUANO, BOLSA DE 1 KG                                      ",44,1,KG    
+2025,10,"MP, PINTO, BOLSA DE 900 GR                                  ",30.56,1,GR    
+2025,10,"VERDE VALLE, PERUANO, BOLSA DE 900 GR                       ",76.67,1,GR    
+2025,10,"MP, PINTO, BOLSA DE 900 GR                                  ",28.61,1,GR    
+2025,10,"PRECISSIMO, PINTO, BOLSA DE 908 GR                          ",29.4,1,KG    
+2025,10,"VERDE VALLE, PERUANO, BOLSA DE 900 GR                       ",71.11,1,GR    
+2025,10,"EL JARRO, PINTO, AMERICANO, BOLSA DE 907 GR                 ",42.45,1,KG    
+2025,10,"PINTO, A GRANEL                                             ",36,1,KG    
+2025,9,"VERDE VALLE, PERUANO, BOLSA DE 900 GR                       ",75.55,1,KG    
+2025,9,"VERDE VALLE, PERUANO, MAYOCOBA, BOLSA DE 900 GR             ",77.67,1,KG    
+2025,9,"MI TIENDA DEL AHORRO MP, PINTO, BOLSA DE 907 GR             ",26.52,1,KG    
+2025,9,"PINTO,  AMERICANO, A GRANEL,                                ",40,1,KG    
+2025,9,"PINTO, A GRANEL                                             ",30,1,KG    
+2025,9,"PERUANO, BOLSA DE 1 KG                                      ",44,1,KG    
+2025,9,"MP, PINTO, BOLSA DE 900 GR                                  ",31.81,1,GR    
+2025,9,"VERDE VALLE, PERUANO, BOLSA DE 900 GR                       ",76.67,1,GR    
+2025,9,"MP, PINTO, BOLSA DE 900 GR                                  ",27.92,1,GR    
+2025,9,"PRECISSIMO, PINTO, BOLSA DE 908 GR                          ",43.83,1,KG    
+2025,9,"VERDE VALLE, PERUANO, BOLSA DE 900 GR                       ",70.28,1,GR    
+2025,9,"EL JARRO, PINTO, AMERICANO, BOLSA DE 907 GR                 ",42.45,1,KG    
+2025,9,"PINTO, A GRANEL                                             ",36,1,KG    
+2025,8,"VERDE VALLE, PERUANO, BOLSA DE 900 GR                       ",75.55,1,KG    
+2025,8,"VERDE VALLE, PERUANO, MAYOCOBA, BOLSA DE 900 GR             ",77.67,1,KG    
+2025,8,"MI TIENDA DEL AHORRO MP, PINTO, BOLSA DE 907 GR             ",28.83,1,KG    
+2025,8,"PINTO,  AMERICANO, A GRANEL,                                ",40,1,KG    
+2025,8,"PINTO, A GRANEL                                             ",30,1,KG    
+2025,8,"PERUANO, BOLSA DE 1 KG                                      ",44,1,KG    
+2025,8,"MP, PINTO, BOLSA DE 900 GR                                  ",29.86,1,GR    
+2025,8,"VERDE VALLE, PERUANO, BOLSA DE 900 GR                       ",76.67,1,GR    
+2025,8,"MP, PINTO, BOLSA DE 900 GR                                  ",30.42,1,GR    
+2025,8,"PRECISSIMO, PINTO, BOLSA DE 908 GR                          ",34.69,1,KG    
+2025,8,"VERDE VALLE, PERUANO, BOLSA DE 900 GR                       ",58.33,1,GR    
+2025,8,"EL JARRO, PINTO, AMERICANO, BOLSA DE 907 GR                 ",42.45,1,KG    
+2025,8,"PINTO, A GRANEL                                             ",42.75,1,KG    
+2025,7,"VERDE VALLE, PERUANO, BOLSA DE 900 GR                       ",75.55,1,KG    
+2025,7,"VERDE VALLE, PERUANO, MAYOCOBA, BOLSA DE 900 GR             ",77.67,1,KG    
+2025,7,"MI TIENDA DEL AHORRO MP, PINTO, BOLSA DE 907 GR             ",26.9,1,KG    
+2025,7,"PINTO,  AMERICANO, A GRANEL,                                ",40,1,KG    
+2025,7,"PINTO, A GRANEL                                             ",30.5,1,KG    
+2025,7,"PERUANO, BOLSA DE 1 KG                                      ",44,1,KG    
+2025,7,"MP, PINTO, BOLSA DE 900 GR                                  ",36.67,1,GR    
+2025,7,"VERDE VALLE, PERUANO, BOLSA DE 900 GR                       ",76.67,1,GR    
+2025,7,"MP, PINTO, BOLSA DE 900 GR                                  ",35.56,1,GR    
+2025,7,"PRECISSIMO, PINTO, BOLSA DE 908 GR                          ",34.69,1,KG    
+2025,7,"VERDE VALLE, PERUANO, BOLSA DE 900 GR                       ",65.55,1,GR    
+2025,7,"EL JARRO, PINTO, AMERICANO, BOLSA DE 907 GR                 ",42.45,1,KG    
+2025,7,"PINTO, A GRANEL                                             ",45,1,KG    
+2025,6,"VERDE VALLE, PERUANO, BOLSA DE 900 GR                       ",75.55,1,KG    
+2025,6,"VERDE VALLE, PERUANO, MAYOCOBA, BOLSA DE 900 GR             ",77.67,1,KG    
+2025,6,"MI TIENDA DEL AHORRO MP, PINTO, BOLSA DE 907 GR             ",29.11,1,KG    
+2025,6,"PINTO,  AMERICANO, A GRANEL,                                ",40,1,KG    
+2025,6,"PINTO, A GRANEL                                             ",32,1,KG    
+2025,6,"PERUANO, BOLSA DE 1 KG                                      ",44,1,KG    
+2025,6,"MP, PINTO, BOLSA DE 900 GR                                  ",39.03,1,GR    
+2025,6,"VERDE VALLE, PERUANO, BOLSA DE 900 GR                       ",76.67,1,GR    
+2025,6,"MP, PINTO, BOLSA DE 900 GR                                  ",37.78,1,GR    
+2025,6,"PRECISSIMO, PINTO, BOLSA DE 908 GR                          ",43.5,1,KG    
+2025,6,"VERDE VALLE, PERUANO, BOLSA DE 900 GR                       ",55.83,1,GR    
+2025,6,"EL JARRO, PINTO, AMERICANO, BOLSA DE 907 GR                 ",42.45,1,KG    
+2025,6,"PINTO, A GRANEL                                             ",45,1,KG    
+2025,5,"VERDE VALLE, PERUANO, BOLSA DE 900 GR                       ",75.55,1,KG    
+2025,5,"VERDE VALLE, PERUANO, MAYOCOBA, BOLSA DE 900 GR             ",59.33,1,KG    
+2025,5,"MI TIENDA DEL AHORRO MP, PINTO, BOLSA DE 907 GR             ",31.31,1,KG    
+2025,5,"PINTO,  AMERICANO, A GRANEL,                                ",42.5,1,KG    
+2025,5,"PINTO, A GRANEL                                             ",32,1,KG    
+2025,5,"PERUANO, BOLSA DE 1 KG                                      ",44,1,KG    
+2025,5,"MP, PINTO, BOLSA DE 900 GR                                  ",37.64,1,GR    
+2025,5,"VERDE VALLE, PERUANO, BOLSA DE 900 GR                       ",76.67,1,GR    
+2025,5,"MP, PINTO, BOLSA DE 900 GR                                  ",37.78,1,GR    
+2025,5,"PRECISSIMO, PINTO, BOLSA DE 908 GR                          ",41.52,1,KG    
+2025,5,"VERDE VALLE, PERUANO, BOLSA DE 900 GR                       ",71.11,1,GR    
+2025,5,"EL JARRO, PINTO, AMERICANO, BOLSA DE 907 GR                 ",42.45,1,KG    
+2025,5,"PINTO, A GRANEL                                             ",45,1,KG    
+2025,4,"VERDE VALLE, PERUANO, BOLSA DE 900 GR                       ",71.11,1,KG    
+2025,4,"VERDE VALLE, PERUANO, MAYOCOBA, BOLSA DE 900 GR             ",69.89,1,KG    
+2025,4,"MI TIENDA DEL AHORRO MP, PINTO, BOLSA DE 907 GR             ",27.45,1,KG    
+2025,4,"PINTO,  AMERICANO, A GRANEL,                                ",45,1,KG    
+2025,4,"PINTO, A GRANEL                                             ",32,1,KG    
+2025,4,"PERUANO, BOLSA DE 1 KG                                      ",43,1,KG    
+2025,4,"MP, PINTO, BOLSA DE 900 GR                                  ",36.94,1,GR    
+2025,4,"VERDE VALLE, PERUANO, BOLSA DE 900 GR                       ",76.67,1,GR    
+2025,4,"MP, PINTO, BOLSA DE 900 GR                                  ",35.28,1,GR    
+2025,4,"PRECISSIMO, PINTO, BOLSA DE 908 GR                          ",42.62,1,KG    
+2025,4,"VERDE VALLE, PERUANO, BOLSA DE 900 GR                       ",61.11,1,GR    
+2025,4,"EL JARRO, PINTO, AMERICANO, BOLSA DE 907 GR                 ",42.45,1,KG    
+2025,4,"PINTO, A GRANEL                                             ",45,1,KG    
+2025,3,"VERDE VALLE, PERUANO, BOLSA DE 900 GR                       ",66.67,1,KG    
+2025,3,"VERDE VALLE, PERUANO, MAYOCOBA, BOLSA DE 900 GR             ",66.55,1,KG    
+2025,3,"MI TIENDA DEL AHORRO MP, PINTO, BOLSA DE 907 GR             ",27.45,1,KG    
+2025,3,"PINTO,  AMERICANO, A GRANEL,                                ",45,1,KG    
+2025,3,"PINTO, A GRANEL                                             ",32,1,KG    
+2025,3,"PERUANO, BOLSA DE 1 KG                                      ",43,1,KG    
+2025,3,"MP, PINTO, BOLSA DE 900 GR                                  ",36.25,1,GR    
+2025,3,"VERDE VALLE, PERUANO, BOLSA DE 900 GR                       ",74.03,1,GR    
+2025,3,"MP, PINTO, BOLSA DE 900 GR                                  ",32.78,1,GR    
+2025,3,"PRECISSIMO, PINTO, BOLSA DE 908 GR                          ",36.34,1,KG    
+2025,3,"VERDE VALLE, PERUANO, BOLSA DE 900 GR                       ",62.5,1,GR    
+2025,3,"EL JARRO, PINTO, AMERICANO, BOLSA DE 907 GR                 ",41.07,1,KG    
+2025,3,"PINTO, A GRANEL                                             ",45,1,KG    
+2025,2,"VERDE VALLE, PERUANO, BOLSA DE 900 GR                       ",66.67,1,KG    
+2025,2,"VERDE VALLE, PERUANO, MAYOCOBA, BOLSA DE 900 GR             ",66.55,1,KG    
+2025,2,"MI TIENDA DEL AHORRO MP, PINTO, BOLSA DE 907 GR             ",29.44,1,KG    
+2025,2,"PINTO,  AMERICANO, A GRANEL,                                ",45,1,KG    
+2025,2,"PINTO, A GRANEL                                             ",32.5,1,KG    
+2025,2,"PERUANO, BOLSA DE 1 KG                                      ",43,1,KG    
+2025,2,"MP, PINTO, BOLSA DE 900 GR                                  ",37.92,1,GR    
+2025,2,"VERDE VALLE, PERUANO, BOLSA DE 900 GR                       ",76.67,1,GR    
+2025,2,"MP, PINTO, BOLSA DE 900 GR                                  ",37.78,1,GR    
+2025,2,"PRECISSIMO, PINTO, BOLSA DE 908 GR                          ",34.69,1,KG    
+2025,2,"VERDE VALLE, PERUANO, BOLSA DE 900 GR                       ",54.17,1,GR    
+2025,2,"EL JARRO, PINTO, AMERICANO, BOLSA DE 907 GR                 ",39.69,1,KG    
+2025,2,"PINTO, A GRANEL                                             ",45,1,KG    
+2025,1,"VERDE VALLE, PERUANO, BOLSA DE 900 GR                       ",66.67,1,KG    
+2025,1,"VERDE VALLE, PERUANO, MAYOCOBA, BOLSA DE 900 GR             ",71.94,1,KG    
+2025,1,"MI TIENDA DEL AHORRO MP, PINTO, BOLSA DE 907 GR             ",32.58,1,KG    
+2025,1,"PINTO,  AMERICANO, A GRANEL,                                ",45,1,KG    
+2025,1,"PINTO, A GRANEL                                             ",33,1,KG    
+2025,1,"PERUANO, BOLSA DE 1 KG                                      ",45,1,KG    
+2025,1,"MP, PINTO, BOLSA DE 900 GR                                  ",38.89,1,GR    
+2025,1,"VERDE VALLE, PERUANO, BOLSA DE 900 GR                       ",76.67,1,GR    
+2025,1,"MP, PINTO, BOLSA DE 900 GR                                  ",38.89,1,GR    
+2025,1,"PRECISSIMO, PINTO, BOLSA DE 908 GR                          ",41.3,1,KG    
+2025,1,"VERDE VALLE, PERUANO, BOLSA DE 900 GR                       ",69.72,1,GR    
+2025,1,"EL JARRO, PINTO, AMERICANO, BOLSA DE 907 GR                 ",36.93,1,KG    
+2025,1,"PINTO, A GRANEL                                             ",45,1,KG    
+2024,12,"VERDE VALLE, PERUANO, BOLSA DE 900 GR                       ",75.55,1,KG    
+2024,12,"VERDE VALLE, PERUANO, MAYOCOBA, BOLSA DE 900 GR             ",81.22,1,KG    
+2024,12,"MI TIENDA DEL AHORRO MP, PINTO, BOLSA DE 907 GR             ",32.97,1,KG    
+2024,12,"PINTO,  AMERICANO, A GRANEL,                                ",45,1,KG    
+2024,12,"PINTO, A GRANEL                                             ",33,1,KG    
+2024,12,"PERUANO, BOLSA DE 1 KG                                      ",45,1,KG    
+2024,12,"MP, PINTO, BOLSA DE 900 GR                                  ",35.56,1,GR    
+2024,12,"VERDE VALLE, PERUANO, BOLSA DE 900 GR                       ",76.67,1,GR    
+2024,12,"MP, PINTO, BOLSA DE 900 GR                                  ",38.89,1,GR    
+2024,12,"PRECISSIMO, PINTO, BOLSA DE 908 GR                          ",43.5,1,KG    
+2024,12,"VERDE VALLE, PERUANO, BOLSA DE 900 GR                       ",78.05,1,GR    
+2024,12,"LA MERCED, PINTO, NACIONAL, BOLSA DE 900 GR                 ",47.67,1,GR    
+2024,12,"PINTO, A GRANEL                                             ",45,1,KG    
+2024,11,"VERDE VALLE, PERUANO, BOLSA DE 900 GR                       ",75.55,1,KG    
+2024,11,"VERDE VALLE, PERUANO, MAYOCOBA, BOLSA DE 900 GR             ",77.22,1,KG    
+2024,11,"MI TIENDA DEL AHORRO MP, PINTO, BOLSA DE 907 GR             ",34.4,1,KG    
+2024,11,"PINTO,  AMERICANO, A GRANEL,                                ",45,1,KG    
+2024,11,"PINTO, A GRANEL                                             ",33,1,KG    
+2024,11,"PERUANO, BOLSA DE 1 KG                                      ",45,1,KG    
+2024,11,"MP, PINTO, BOLSA DE 900 GR                                  ",36.67,1,GR    
+2024,11,"VERDE VALLE, PERUANO, BOLSA DE 900 GR                       ",76.67,1,GR    
+2024,11,"MP, PINTO, BOLSA DE 900 GR                                  ",38.89,1,GR    
+2024,11,"PRECISSIMO, PINTO, BOLSA DE 908 GR                          ",41.85,1,KG    
+2024,11,"VERDE VALLE, PERUANO, BOLSA DE 900 GR                       ",78.05,1,GR    
+2024,11,"LA MERCED, PINTO, NACIONAL, BOLSA DE 900 GR                 ",47.72,1,GR    
+2024,11,"PINTO, A GRANEL                                             ",44.5,1,KG    
+2024,10,"VERDE VALLE, PERUANO, BOLSA DE 900 GR                       ",75.55,1,KG    
+2024,10,"VERDE VALLE, PERUANO, MAYOCOBA, BOLSA DE 900 GR             ",77.22,1,KG    
+2024,10,"MI TIENDA DEL AHORRO MP, PINTO, BOLSA DE 907 GR             ",33.68,1,KG    
+2024,10,"PINTO,  AMERICANO, A GRANEL,                                ",45,1,KG    
+2024,10,"PINTO, A GRANEL                                             ",32,1,KG    
+2024,10,"PERUANO, BOLSA DE 1 KG                                      ",45,1,KG    
+2024,10,"MP, PINTO, BOLSA DE 900 GR                                  ",37.78,1,GR    
+2024,10,"VERDE VALLE, PERUANO, BOLSA DE 900 GR                       ",76.67,1,GR    
+2024,10,"MP, PINTO, BOLSA DE 900 GR                                  ",38.06,1,GR    
+2024,10,"PRECISSIMO, PINTO, BOLSA DE 908 GR                          ",41.3,1,KG    
+2024,10,"VERDE VALLE, PERUANO, BOLSA DE 900 GR                       ",75.55,1,GR    
+2024,10,"LA MERCED, PINTO, NACIONAL, BOLSA DE 900 GR                 ",47.73,1,GR    
+2024,10,"PINTO, A GRANEL                                             ",44,1,KG    
+2024,9,"VERDE VALLE, PERUANO, BOLSA DE 900 GR                       ",71.11,1,KG    
+2024,9,"VERDE VALLE, PERUANO, MAYOCOBA, BOLSA DE 900 GR             ",77.22,1,KG    
+2024,9,"MI TIENDA DEL AHORRO MP, PINTO, BOLSA DE 907 GR             ",34.4,1,KG    
+2024,9,"PINTO,  AMERICANO, A GRANEL,                                ",45,1,KG    
+2024,9,"PINTO, A GRANEL                                             ",32.75,1,KG    
+2024,9,"PERUANO, BOLSA DE 1 KG                                      ",45,1,KG    
+2024,9,"MP, PINTO, BOLSA DE 900 GR                                  ",38.89,1,GR    
+2024,9,"VERDE VALLE, PERUANO, BOLSA DE 900 GR                       ",76.67,1,GR    
+2024,9,"MP, PINTO, BOLSA DE 900 GR                                  ",38.89,1,GR    
+2024,9,"PRECISSIMO, PINTO, BOLSA DE 908 GR                          ",41.19,1,KG    
+2024,9,"VERDE VALLE, PERUANO, BOLSA DE 900 GR                       ",71.11,1,GR    
+2024,9,"LA MERCED, PINTO, NACIONAL, BOLSA DE 900 GR                 ",47.67,1,GR    
+2024,9,"PINTO, A GRANEL                                             ",44,1,KG    
+2024,8,"VERDE VALLE, PERUANO, BOLSA DE 900 GR",71.11,1,KG
+2024,8,"VERDE VALLE, PERUANO, MAYOCOBA, BOLSA DE 900 GR",77.22,1,KG
+2024,8,"MI TIENDA DEL AHORRO MP, PINTO, BOLSA DE 907 GR",34.4,1,KG
+2024,8,"PINTO,  AMERICANO, A GRANEL,",45,1,KG
+2024,8,"PINTO, A GRANEL",35,1,KG
+2024,8,"PERUANO, BOLSA DE 1 KG",45,1,KG
+2024,8,"MP, PINTO, BOLSA DE 900 GR",40,1,GR
+2024,8,"VERDE VALLE, PERUANO, BOLSA DE 900 GR",76.67,1,GR
+2024,8,"MP, PINTO, BOLSA DE 900 GR",40,1,GR
+2024,8,"PRECISSIMO, PINTO, BOLSA DE 908 GR",41.79,1,KG
+2024,8,"VERDE VALLE, PERUANO, BOLSA DE 900 GR",70,1,GR
+2024,8,"LA MERCED, PINTO, NACIONAL, BOLSA DE 900 GR",44,1,GR
+2024,8,"PINTO, A GRANEL",44,1,KG
