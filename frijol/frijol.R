@@ -5,7 +5,7 @@ library(tsibble)
 library(feasts)
 
 # --- 2. IMPORTACIÓN Y LIMPIEZA ---
-archivos_frijol <- list.files("~/ProyectoLDM/frijol/", pattern = "\\.(csv|CSV)$", full.names = TRUE, recursive = TRUE)
+archivos_frijol <- list.files("frijol", pattern = "\\.(csv|CSV)$", full.names = TRUE, recursive = TRUE)
 message("Archivos de precio de frijol encontrados: ", length(archivos_frijol))
 
 datos_frijol <- archivos_frijol %>%

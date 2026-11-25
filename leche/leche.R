@@ -6,7 +6,7 @@ library(feasts)
 
 # --- 2. IMPORTACIÓN Y LIMPIEZA ---
 # Cambiado a la carpeta de leche
-archivos_leche <- list.files("~/ProyectoLDM/leche/", pattern = "\\.(csv|CSV)$", full.names = TRUE, recursive = TRUE)
+archivos_leche <- list.files("leche", pattern = "\\.(csv|CSV)$", full.names = TRUE, recursive = TRUE)
 message("Archivos de precio de leche encontrados: ", length(archivos_leche))
 
 datos_leche <- archivos_leche %>%

@@ -48,3 +48,6 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# Gráficas que R guarda solo al correr scripts sin RStudio
+Rplots.pdf

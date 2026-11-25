@@ -6,7 +6,7 @@ library(feasts)
 
 # --- 2. IMPORTACIÓN Y LIMPIEZA ---
 # Asegúrate de que la ruta apunte a tu carpeta de azúcar
-archivos_azucar <- list.files("~/ProyectoLDM/azucar/", pattern = "\\.(csv|CSV)$", full.names = TRUE, recursive = TRUE)
+archivos_azucar <- list.files("azucar", pattern = "\\.(csv|CSV)$", full.names = TRUE, recursive = TRUE)
 message("Archivos de precio de azúcar encontrados: ", length(archivos_azucar))
 
 datos_azucar <- archivos_azucar %>%

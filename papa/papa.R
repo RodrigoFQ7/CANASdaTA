@@ -6,7 +6,7 @@ library(feasts)
 
 # --- 2. IMPORTACIÓN Y LIMPIEZA ---
 # Asegúrate de que la ruta apunte a tu carpeta de papa
-archivos_papa <- list.files("~/ProyectoLDM/papa/", pattern = "\\.(csv|CSV)$", full.names = TRUE, recursive = TRUE)
+archivos_papa <- list.files("papa", pattern = "\\.(csv|CSV)$", full.names = TRUE, recursive = TRUE)
 message("Archivos de precio de papa encontrados: ", length(archivos_papa))
 
 datos_papa <- archivos_papa %>%

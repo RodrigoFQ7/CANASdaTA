@@ -6,7 +6,7 @@ library(feasts)
 
 # --- 2. IMPORTACIÓN Y LIMPIEZA ---
 # Asegúrate de que la ruta apunte a tu carpeta de arroz
-archivos_arroz <- list.files("~/ProyectoLDM/arroz/", pattern = "\\.(csv|CSV)$", full.names = TRUE, recursive = TRUE)
+archivos_arroz <- list.files("arroz", pattern = "\\.(csv|CSV)$", full.names = TRUE, recursive = TRUE)
 message("Archivos de precio de arroz encontrados: ", length(archivos_arroz))
 
 datos_arroz <- archivos_arroz %>%

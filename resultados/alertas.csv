@@ -1,0 +1,16 @@
+﻿"producto","fecha","tipo","precio_real","pronostico","inferior_80","superior_80","diferencia_pct"
+"Azúcar","2025-06","Baja fuera de lo esperado",30.91,33.37,31.84,34.9,-7.37
+"Azúcar","2026-01","Aumento fuera de lo esperado",31.74,30.22,28.84,31.61,5
+"Azúcar","2026-03","Baja fuera de lo esperado",30.7,32.48,31,33.97,-5.49
+"Frijol","2025-07","Baja fuera de lo esperado",36.59,38.59,37.45,39.72,-5.17
+"Frijol","2025-10","Baja fuera de lo esperado",33.39,36.3,35.15,37.44,-8.01
+"Frijol","2025-11","Aumento fuera de lo esperado",34.07,32.23,31.05,33.41,5.71
+"Frijol","2025-12","Baja fuera de lo esperado",31.16,33.78,32.59,34.97,-7.76
+"Frijol","2026-01","Aumento fuera de lo esperado",31.72,30.08,28.87,31.29,5.43
+"Huevo","2026-03","Baja fuera de lo esperado",49.33,55.83,53.9,57.76,-11.64
+"Papa","2026-02","Aumento fuera de lo esperado",39.98,30.03,26.56,33.49,33.17
+"Papa","2026-03","Aumento fuera de lo esperado",44.18,35.89,31.59,40.19,23.11
+"Papa","2026-05","Aumento fuera de lo esperado",53.34,44.95,39.53,50.37,18.67
+"Tomate","2026-02","Aumento fuera de lo esperado",31.49,19.98,14.71,25.25,57.63
+"Tomate","2026-03","Aumento fuera de lo esperado",49.01,32.6,23.84,41.37,50.32
+"Tortilla","2026-05","Aumento fuera de lo esperado",27.75,26.37,26.18,26.57,5.22
