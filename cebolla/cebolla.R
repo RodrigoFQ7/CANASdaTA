@@ -6,7 +6,7 @@ library(feasts)
 
 # --- 2. IMPORTACIÓN Y LIMPIEZA ---
 # Asegúrate de que la ruta apunte a tu carpeta de cebolla
-archivos_cebolla <- list.files("~/ProyectoLDM/cebolla/", pattern = "\\.(csv|CSV)$", full.names = TRUE, recursive = TRUE)
+archivos_cebolla <- list.files("cebolla", pattern = "\\.(csv|CSV)$", full.names = TRUE, recursive = TRUE)
 message("Archivos de precio de cebolla encontrados: ", length(archivos_cebolla))
 
 datos_cebolla <- archivos_cebolla %>%

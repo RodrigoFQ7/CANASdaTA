@@ -6,7 +6,7 @@ library(feasts)
 
 # --- 2. IMPORTACIÓN Y LIMPIEZA ---
 # Asegúrate de que la ruta apunte a tu carpeta de aceite
-archivos_aceite <- list.files("~/ProyectoLDM/aceite/", pattern = "\\.(csv|CSV)$", full.names = TRUE, recursive = TRUE)
+archivos_aceite <- list.files("aceite", pattern = "\\.(csv|CSV)$", full.names = TRUE, recursive = TRUE)
 message("Archivos de precio de aceite encontrados: ", length(archivos_aceite))
 
 datos_aceite <- archivos_aceite %>%

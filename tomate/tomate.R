@@ -5,7 +5,7 @@ library(tsibble)
 library(feasts)
 
 # --- 2. IMPORTACIÓN Y LIMPIEZA ---
-archivos_tomate <- list.files("~/ProyectoLDM/tomate/", pattern = "\\.(csv|CSV)$", full.names = TRUE, recursive = TRUE)
+archivos_tomate <- list.files("tomate", pattern = "\\.(csv|CSV)$", full.names = TRUE, recursive = TRUE)
 message("Archivos de precio de tomate encontrados: ", length(archivos_tomate))
 
 datos_tomate <- archivos_tomate %>%

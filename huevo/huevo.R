@@ -5,7 +5,7 @@ library(tsibble)
 library(feasts)
 
 # --- 2. IMPORTACIÓN Y LIMPIEZA ---
-archivos_huevo <- list.files("~/ProyectoLDM/huevo/", pattern = "\\.(csv|CSV)$", full.names = TRUE, recursive = TRUE)
+archivos_huevo <- list.files("huevo", pattern = "\\.(csv|CSV)$", full.names = TRUE, recursive = TRUE)
 message("Archivos de precio de huevo encontrados: ", length(archivos_huevo))
 
 datos_huevo <- archivos_huevo %>%

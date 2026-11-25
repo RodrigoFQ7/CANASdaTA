@@ -6,7 +6,7 @@ library(tsibble)
 library(feasts)
 
 # --- 2. IMPORTACIÓN Y LIMPIEZA ---
-archivos_tortilla <- list.files("~/ProyectoLDM/tortillas/", pattern = "\\.(csv|CSV)$", full.names = TRUE, recursive = TRUE)
+archivos_tortilla <- list.files("tortillas", pattern = "\\.(csv|CSV)$", full.names = TRUE, recursive = TRUE)
 message("Archivos de precio de tortilla encontrados: ", length(archivos_tortilla))
 
 datos_tortilla <- archivos_tortilla %>%
