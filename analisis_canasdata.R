@@ -16,6 +16,7 @@
 
 source("R/productos.R", encoding = "UTF-8")
 source("R/funciones.R", encoding = "UTF-8")
+source("R/reporte.R", encoding = "UTF-8")
 
 meses_prueba <- 12      # meses que se usan para medir el error
 meses_pronostico <- 12  # meses que se pronostican hacia adelante
@@ -99,5 +100,18 @@ write_excel_csv(juntar("calendario") %>% mutate(efecto_pct = round(efecto_pct, 1
 write_excel_csv(juntar("serie") %>% mutate(fecha = fecha_texto(fecha), across(where(is.numeric), ~ round(.x, 2))),
                 "resultados/series_mensuales.csv")
 
+# Página para familias ------------------------------------------------------------
+# Ábrela con doble clic desde la carpeta "resultados" para verla en el navegador.
+generar_pagina_familias(
+  resumen = resumen,
+  series = juntar("serie"),
+  pronosticos = juntar("pronostico"),
+  calendario = juntar("calendario"),
+  alertas = juntar("alertas"),
+  productos = productos,
+  archivo = "resultados/pagina_familias.html"
+)
+
 message("\nListo. Resumen del modelo:")
 print(resumen, n = Inf)
+message("\nPágina para familias: resultados/pagina_familias.html")
