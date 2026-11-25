@@ -18,7 +18,7 @@ La primera vez instala los paquetes:
 install.packages(c("tidyverse", "fable", "tsibble", "feasts", "urca"))
 ```
 
-Después abre `analisis_canasdata.R` y córrelo completo. Tarda unos minutos porque entrena muchos modelos. Al terminar, todos los resultados quedan en la carpeta `resultados`.
+Después abre `analisis_canasdata.R` y córrelo completo. Tarda unos minutos porque entrena muchos modelos. Al terminar, todos los resultados quedan en la carpeta `resultados`. Ahí también queda `pagina_familias.html`, una página con los mismos resultados explicados en palabras sencillas para las familias. Se abre con doble clic.
 
 ## Qué hace el modelo
 
@@ -40,6 +40,7 @@ Con el modelo elegido pronostica los próximos 12 meses y marca alertas en los m
 | `resultados/pruebas_ultimos_meses.csv` | Detalle de cada pronóstico de prueba |
 | `resultados/series_mensuales.csv` | Precio promedio mensual de cada producto |
 | `resultados/graficas/` | Gráfica de pronóstico y calendario de cada producto |
+| `resultados/pagina_familias.html` | Página sencilla para familias, se abre en el navegador o el celular |
 
 Con datos hasta mayo de 2026, el error promedio a un mes fue menor al 15% en los 10 productos. El más difícil de pronosticar es el tomate, con un error cercano al 11%, y le siguen la papa y la cebolla. En seis productos la referencia simple tuvo un error un poco menor que ARIMA y ETS, lo cual es común en precios que cambian poco de un mes a otro.
 
